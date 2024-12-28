@@ -931,6 +931,7 @@ Intraday trading, also known as day trading, involves buying and selling stocks 
 
 - Broker tries to cover at post market orders at 3:00PM to 4:00 PM, else SEBI puts penalty and any profit made at after market settlement is taken by SEBI
 - https://youtu.be/OJDUClo_M_M?list=PLGaUN_mTvvktRPHWF4eKqY6-ObqPrpJlB&t=4402
+- https://youtu.be/Lvhj5oBQiIQ?list=PLGaUN_mTvvktRPHWF4eKqY6-ObqPrpJlB&t=318
 
 * **Short Selling:** You borrowed 10 shares of TCS and sold them, hoping the price would fall.
 * **Forgetting to Close:** You failed to buy back those 10 shares before the end of the trading day.
@@ -974,6 +975,30 @@ Off-market transfers, while generally permitted, may also be subject to certain 
 **Disclaimer:** This information is for general knowledge and informational purposes only and does not constitute legal or financial advice. 
 
 **Please note:** Specific penalties and regulations can vary depending on the jurisdiction and the specific circumstances of the share transfer. It's essential to consult with relevant authorities or legal professionals for accurate and up-to-date information.
+
+**IEPF stands for Investor Education and Protection Fund.**
+
+**What is IEPF?**
+
+https://www.iepf.gov.in/content/iepf/global/master/Home/Home.html
+
+* It's a fund established under the provisions of the Securities Contracts (Regulation) Act, 1956.
+* It's administered by the **Investor Education and Protection Fund Authority (IEPFA)**, which is under the Ministry of Corporate Affairs, Government of India.
+
+**Purpose of IEPF:**
+
+* **Protect Investors:** The primary goal is to protect the interests of investors in the securities market.
+* **Claim Unclaimed Dividends and Shares:** IEPF collects unclaimed dividends, matured deposits, and unpaid amounts of buy-back of securities from companies. These unclaimed amounts are transferred to the IEPF.
+* **Refund to Investors:** IEPF aims to refund these unclaimed amounts to their rightful owners.
+* **Investor Education:** IEPF also plays a crucial role in educating investors about the securities market and promoting investor awareness.
+
+**Key Points:**
+
+* If you have unclaimed dividends or shares, you can check if they have been transferred to IEPF on their official website.
+* IEPF provides a mechanism for investors to claim their unclaimed amounts.
+* IEPF plays a vital role in safeguarding the interests of investors in the Indian securities market.
+
+**Disclaimer:** This information is for general knowledge and informational purposes only and does not constitute financial, investment, or legal advice.
 
 
 
