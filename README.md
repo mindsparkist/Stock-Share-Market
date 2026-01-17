@@ -1000,5 +1000,62 @@ https://www.iepf.gov.in/content/iepf/global/master/Home/Home.html
 
 **Disclaimer:** This information is for general knowledge and informational purposes only and does not constitute financial, investment, or legal advice.
 
+In the Indian stock market (NSE/BSE), a **Stop-Loss (SL)** order is your primary safety net. It automatically exits your position once a stock hits a certain price, preventing a small loss from turning into a disaster.
+
+There are two main ways to set this up: **SL-Market** and **SL-Limit**.
+
+---
+
+### 1. Stop-Loss Market (SL-M)
+
+An SL-M order is designed for **execution certainty**. Once the stock hits your "Trigger Price," the system sends a market order to the exchange.
+
+* **How it works:** You only set a **Trigger Price**.
+* **Execution:** It will sell (or buy) at whatever the current best available price is in the market.
+* **Best for:** Volatile situations where you *must* exit the trade immediately, no matter the price.
+* **Note:** NSE has restricted SL-M for certain Options contracts to prevent "freak trades," so you’ll mostly use this for Stocks.
+
+> **Example:** You buy **Reliance** at ₹2,500. You want to limit your loss to ₹20.
+> * **Trigger Price:** ₹2,480.
+> * **Scenario:** If Reliance price drops to ₹2,480, your order is triggered. If the next available buyer is at ₹2,479.50, your stock is sold there instantly.
+> 
+> 
+
+---
+
+### 2. Stop-Loss Limit (SL-L)
+
+An SL-L order is designed for **price control**. It ensures you don't sell below a certain "Limit Price," but it does not guarantee your order will be filled.
+
+* **How it works:** You set two prices: a **Trigger Price** and a **Limit Price**.
+* **Execution:** When the Trigger Price is hit, your order becomes a *Limit Order*. It will only execute at your Limit Price or better.
+* **Best for:** Less volatile stocks where you want to avoid selling at a "bad" price during a temporary spike.
+* **Risk:** If the price "gaps down" (jumps from ₹2,480 to ₹2,470 instantly), your order might stay pending and never execute, leaving you with a mounting loss.
+
+> **Example:** You buy **HDFC Bank** at ₹1,600.
+> * **Trigger Price:** ₹1,585 (This "activates" the order).
+> * **Limit Price:** ₹1,580 (This is the "lowest" you are willing to accept).
+> * **Scenario:** Once the price hits ₹1,585, your order is sent to the exchange. It will be filled as long as there are buyers between ₹1,585 and ₹1,580. If the price crashes to ₹1,575 instantly, your order remains **"Open"** and you are still holding the stock.
+> 
+> 
+
+---
+
+### Comparison at a Glance
+
+| Feature | SL-Market (SL-M) | SL-Limit (SL-L) |
+| --- | --- | --- |
+| **Inputs Required** | Trigger Price only | Trigger Price + Limit Price |
+| **Execution** | Guaranteed (as long as there's a buyer/seller) | Not guaranteed |
+| **Price Control** | None (Slippage risk) | High (No "freak trade" risk) |
+| **Indian Context** | Restricted for some Options | Standard for all segments |
+
+### Which one should you use?
+
+* **For Intraday Stocks:** **SL-M** is generally safer because getting out of a losing trade is more important than saving a few paisas on the execution price.
+* **For Options:** Since SL-M is often unavailable, use **SL-L** but keep a wide "buffer" between your Trigger and Limit prices (e.g., Trigger at ₹100, Limit at ₹95) to ensure it gets filled even if the price moves fast.
+
+Would you like me to explain how to calculate where to place your stop-loss based on your risk-to-reward ratio?
+
 
 
