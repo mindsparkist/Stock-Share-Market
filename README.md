@@ -1135,3 +1135,63 @@ A derivative is a contract whose value is **derived** from an underlying asset (
 
 **Would you like me to show you how to check the specific circuit limit of a stock on the NSE website?**
 
+In the Indian stock market (NSE and BSE), options are known as **CE (Call European)** and **PE (Put European)**. While they are "European style," you can sell them back into the market at any time before expiry.
+
+Here is the simplest way to understand them using a real-world Indian context.
+
+---
+
+### 1. Call Options (CE)
+
+A Call Option gives you the **right to buy** a stock at a fixed price, but you are not forced to do so. You buy a Call when you are **Bullish** (expecting the price to go up).
+
+* **Logic:** You "lock in" a lower price today because you think the price will be much higher tomorrow.
+* **The Reward:** Unlimited potential if the stock "moons."
+* **The Risk:** Your maximum loss is only the **Premium** you paid.
+
+> **Example:** **Reliance** is trading at **₹2,500**. You think it will hit ₹2,700 by the end of the month.
+> * You buy a **2550 CE** (Strike Price) for a **Premium of ₹50**.
+> * **Scenario A (Success):** Reliance jumps to **₹2,700**. You have the right to buy at ₹2,550.
+> * *Profit:* . Subtract your ₹50 premium, and you make **₹100 per share**.
+> 
+> 
+> * **Scenario B (Failure):** Reliance drops to **₹2,400**. You simply don't exercise your right. You lose only the **₹50 premium**.
+> 
+> 
+
+---
+
+### 2. Put Options (PE)
+
+A Put Option gives you the **right to sell** a stock at a fixed price. You buy a Put when you are **Bearish** (expecting the price to fall) or when you want to **insure** your portfolio.
+
+* **Logic:** You "lock in" a high selling price because you fear the market will crash.
+* **The Reward:** High profit as the stock price falls toward zero.
+* **The Risk:** Your maximum loss is only the **Premium** you paid.
+
+> **Example:** **Nifty 50** is at **22,000**. You fear a market correction.
+> * You buy a **21,800 PE** for a **Premium of ₹100**.
+> * **Scenario A (Success):** Nifty crashes to **21,500**. You have the right to sell at 21,800.
+> * *Profit:* . Subtract your ₹100 premium, and you make **200 points**.
+> 
+> 
+> * **Scenario B (Failure):** Nifty stays at 22,100. You don't sell. You lose only the **₹100 premium**.
+> 
+> 
+
+---
+
+### Key Differences at a Glance
+
+| Feature | Call Option (CE) | Put Option (PE) |
+| --- | --- | --- |
+| **Market View** | Bullish (Upward) | Bearish (Downward) |
+| **Right Given** | Right to **BUY** | Right to **SELL** |
+| **When it gains value** | When stock price **rises** | When stock price **falls** |
+| **Common Use** | Speculating on growth | Hedging/Insurance against crash |
+
+### Important Concept: Time Decay (Theta)
+
+Unlike regular stocks, options have an **Expiry Date** (usually the last Thursday of the month for stocks). Every day that the stock doesn't move in your direction, the option loses some value. This is why "Option Buying" is considered a race against time.
+
+**Would you like to know how to pick the right "Strike Price" (ITM, ATM, or OTM) for your trade?**
